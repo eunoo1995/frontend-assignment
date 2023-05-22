@@ -1,3 +1,10 @@
+import { UploadForm } from "../components/admin/UploadForm";
+
 export const UploadPage = () => {
-  return <div>Page</div>;
+  return (
+    <>
+      <h2>Product Upload</h2>
+      <UploadForm />
+    </>
+  );
 };
