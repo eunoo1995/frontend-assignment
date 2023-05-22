@@ -62,7 +62,8 @@ export const UploadForm = () => {
       ...form,
       size: form.size.split(","),
       color: form.color.split(","),
-      imageURL: "a.jpg",
+      imageURL:
+        "https://d2kchovjbwl1tk.cloudfront.net/vendor/19/product/Black_1673337663685.jpg",
     });
     navigate("/products");
   };
