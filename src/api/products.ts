@@ -23,9 +23,9 @@ export const createProduct = async (newProduct: Product) => {
   }
 };
 
-export const fetchProductData = async (productId: number) => {
+export const fetchProductData = async (productId: string) => {
   try {
-    const response = await client.get(`/products${productId}`);
+    const response = await client.get(`/products/${productId}`);
     return response.data;
   } catch (error) {
     if (error instanceof Error) {
