@@ -1,5 +1,5 @@
 {
-  "products": [
+  "productsAPI": [
     {
       "id": 1,
       "title": "Stripe Sweatshirt",
@@ -211,7 +211,7 @@
       "imageURL": "https://d2kchovjbwl1tk.cloudfront.net/vendor/19/product/Black_1673337663685.jpg"
     }
   ],
-  "cart": [
+  "cartAPI": [
     {
       "id": 1,
       "title": "Off-Shoulder Maxi Dress",

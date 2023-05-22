@@ -3,7 +3,7 @@ import client from "./client";
 
 export const fetchCartdata = async () => {
   try {
-    const response = await client.get("/cart");
+    const response = await client.get("/cartAPI");
     return response.data;
   } catch (error) {
     if (error instanceof Error) {
@@ -14,7 +14,7 @@ export const fetchCartdata = async () => {
 
 export const createCartItem = async (newCartItem: CartItem) => {
   try {
-    const response = await client.post("/cart", newCartItem);
+    const response = await client.post("/cartAPI", newCartItem);
     return response.data;
   } catch (error) {
     if (error instanceof Error) {
@@ -25,7 +25,7 @@ export const createCartItem = async (newCartItem: CartItem) => {
 
 export const updateCartItem = async (id: string, quantity: number) => {
   try {
-    const response = await client.patch(`/cart/${id}`, { quantity });
+    const response = await client.patch(`/cartAPI/${id}`, { quantity });
     return response.data;
   } catch (error) {
     if (error instanceof Error) {
@@ -36,7 +36,7 @@ export const updateCartItem = async (id: string, quantity: number) => {
 
 export const removeCartItem = async (id: string) => {
   try {
-    const response = await client.delete(`/cart/${id}`);
+    const response = await client.delete(`/cartAPI/${id}`);
     return response.data;
   } catch (error) {
     if (error instanceof Error) {
