@@ -1,3 +1,5 @@
+import { ProductList } from "../components/products/ProductList";
+
 export const ProductsPage = () => {
-  return <div>Products</div>;
+  return <ProductList />;
 };
