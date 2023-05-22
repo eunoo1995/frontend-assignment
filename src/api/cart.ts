@@ -33,3 +33,14 @@ export const updateCartItem = async (id: string, quantity: number) => {
     }
   }
 };
+
+export const removeCartItem = async (id: string) => {
+  try {
+    const response = await client.delete(`/cart/${id}`);
+    return response.data;
+  } catch (error) {
+    if (error instanceof Error) {
+      throw new Error(error.message);
+    }
+  }
+};
