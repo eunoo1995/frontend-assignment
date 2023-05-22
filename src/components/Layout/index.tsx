@@ -1,4 +1,4 @@
-import { Container, Stack, Box } from "@mui/material";
+import { Container, Stack } from "@mui/material";
 import { Link, Outlet } from "react-router-dom";
 import styled from "@emotion/styled";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";

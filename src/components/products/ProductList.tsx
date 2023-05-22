@@ -19,9 +19,11 @@ export const ProductList = () => {
   return (
     <StyledUl>
       {products &&
-        products.map((product: Product) => (
-          <ProductItem key={product.id} {...product} />
-        ))}
+        products
+          .reverse()
+          .map((product: Product) => (
+            <ProductItem key={product.id} {...product} />
+          ))}
     </StyledUl>
   );
 };
