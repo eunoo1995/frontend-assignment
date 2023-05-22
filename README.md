@@ -5,6 +5,8 @@
 ```
 git clone https://github.com/eunoo1995/frontend-assignment.git
 
+npm install
+
 npm start
 ```
 
