@@ -22,3 +22,14 @@ export const createCartItem = async (newCartItem: CartItem) => {
     }
   }
 };
+
+export const updateCartItem = async (id: string, quantity: number) => {
+  try {
+    const response = await client.patch(`/cart/${id}`, { quantity });
+    return response.data;
+  } catch (error) {
+    if (error instanceof Error) {
+      throw new Error(error.message);
+    }
+  }
+};
