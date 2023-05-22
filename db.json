@@ -1,0 +1,226 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Stripe Sweatshirt",
+      "price": 25000,
+      "color": ["Navy", "Gray", "Red"],
+      "size": ["S", "M", "L"],
+      "description": "The Stripe Sweatshirt features a unique pattern that adds a stylish touch to your outfit. It is made of soft cotton fabric, providing a comfortable fit. Available in various colors and sizes, this sweatshirt is recommended for creating a chic yet casual look.",
+      "category": "Tops",
+      "imageURL": "/images/stripe_sweatshirt.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Floral Maxi Dress",
+      "price": 59000,
+      "color": ["Pink", "Blue", "Purple"],
+      "size": ["XS", "S", "M", "L"],
+      "description": "The Floral Maxi Dress creates an elegant and feminine look with its beautiful floral design. It is made with stretchy fabric for a comfortable fit and features a waist belt for adjustable silhouette. Perfect for various occasions, this dress is a must-have in your wardrobe.",
+      "category": "Dresses",
+      "imageURL": "/images/floral_maxi_dress.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Classic Denim Jacket",
+      "price": 45000,
+      "color": ["Blue"],
+      "size": ["S", "M", "L"],
+      "description": "The Classic Denim Jacket is a timeless piece that never goes out of style. It is made of durable denim fabric and features a button-up front and chest pockets. This jacket is versatile and can be easily paired with any outfit, making it a staple in your wardrobe.",
+      "category": "Jackets",
+      "imageURL": "/images/classic_denim_jacket.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Striped Button-Down Shirt",
+      "price": 35000,
+      "color": ["Black/White", "Blue/White"],
+      "size": ["S", "M", "L"],
+      "description": "The Striped Button-Down Shirt is a versatile piece that can be dressed up or down. It features a classic striped pattern and a button-up front. Made of lightweight and breathable fabric, this shirt ensures all-day comfort. Pair it with jeans for a casual look or dress it up with slacks for a more formal occasion.",
+      "category": "Tops",
+      "imageURL": "/images/striped_button_down_shirt.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Ruffled Floral Blouse",
+      "price": 39000,
+      "color": ["White", "Yellow"],
+      "size": ["S", "M", "L"],
+      "description": "The Ruffled Floral Blouse is a feminine and chic top that adds a touch of romance to your look. It features a ruffled neckline and a beautiful floral print. Made with lightweight and flowy fabric, this blouse offers both style and comfort. Pair it with jeans or a skirt for a stylish outfit.",
+      "category": "Tops",
+      "imageURL": "/images/ruffled_floral_blouse.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Slim Fit Chinos",
+      "price": 32000,
+      "color": ["Khaki", "Navy", "Gray"],
+      "size": ["S", "M", "L", "XL"],
+      "description": "The Slim Fit Chinos are a versatile and stylish choice for both casual and formal occasions. Made with high-quality cotton fabric, these chinos offer a comfortable and slimming fit. Pair them with a button-down shirt for a polished look or dress them down with a t-shirt for a more casual outfit.",
+      "category": "Pants",
+      "imageURL": "/images/slim_fit_chinos.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Striped Knit Sweater",
+      "price": 28000,
+      "color": ["Black/White", "Gray/White", "Navy/White"],
+      "size": ["S", "M", "L"],
+      "description": "The Striped Knit Sweater is a cozy and stylish addition to your wardrobe. It features a classic striped pattern and a comfortable knit fabric. Perfect for layering or wearing on its own, this sweater can be dressed up or down for any occasion.",
+      "category": "Tops",
+      "imageURL": "/images/striped_knit_sweater.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Floral Wrap Dress",
+      "price": 55000,
+      "color": ["Black", "White"],
+      "size": ["S", "M", "L"],
+      "description": "The Floral Wrap Dress is a beautiful and feminine piece that flatters your figure. It features a wrap-style design with a tie waist and a lovely floral print. Made with lightweight and flowy fabric, this dress is perfect for spring and summer occasions.",
+      "category": "Dresses",
+      "imageURL": "/images/floral_wrap_dress.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Casual Hoodie",
+      "price": 29000,
+      "color": ["Gray", "Black", "Navy"],
+      "size": ["S", "M", "L"],
+      "description": "The Casual Hoodie is a comfortable and versatile piece for everyday wear. Made with soft and cozy fabric, it features a hood and a kangaroo pocket. Pair it with jeans or sweatpants for a relaxed and casual look.",
+      "category": "Tops",
+      "imageURL": "/images/casual_hoodie.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Plaid Shirt",
+      "price": 36000,
+      "color": ["Red/Black", "Blue/Black", "Green/Black"],
+      "size": ["S", "M", "L"],
+      "description": "The Plaid Shirt is a classic and timeless piece that never goes out of style. It features a plaid pattern and a button-up front. Made with soft and breathable fabric, this shirt offers both style and comfort. Pair it with jeans or chinos for a casual yet polished look.",
+      "category": "Tops",
+      "imageURL": "/images/plaid_shirt.jpg"
+    },
+    {
+      "id": 11,
+      "title": "High-Waisted Skinny Jeans",
+      "price": 48000,
+      "color": ["Black", "Dark Blue"],
+      "size": ["XS", "S", "M", "L"],
+      "description": "The High-Waisted Skinny Jeans are a must-have in every wardrobe. They feature a flattering high-waisted design and a slimming fit. Made with stretchy and comfortable fabric, these jeans are perfect for everyday wear. Pair them with a blouse or a t-shirt for a stylish and effortless look.",
+      "category": "Pants",
+      "imageURL": "/images/high_waisted_skinny_jeans.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Sleeveless Knit Top",
+      "price": 23000,
+      "color": ["White", "Black", "Gray"],
+      "size": ["S", "M", "L"],
+      "description": "The Sleeveless Knit Top is a versatile and lightweight piece for the warmer months. It features a sleeveless design and a soft knit fabric. Pair it with shorts or a skirt for a casual and chic look.",
+      "category": "Tops",
+      "imageURL": "/images/sleeveless_knit_top.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Tailored Blazer",
+      "price": 68000,
+      "color": ["Black", "Navy"],
+      "size": ["S", "M", "L"],
+      "description": "The Tailored Blazer is a sophisticated and polished piece that elevates any outfit. It features a tailored fit and a classic lapel collar. Made with high-quality fabric, this blazer offers both style and comfort. Pair it with pants or a skirt for a professional and stylish look.",
+      "category": "Jackets",
+      "imageURL": "/images/tailored_blazer.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Floral Print Skirt",
+      "price": 41000,
+      "color": ["Pink", "Yellow", "Blue"],
+      "size": ["S", "M", "L"],
+      "description": "The Floral Print Skirt is a feminine and versatile piece for the summer season. It features a vibrant floral print and a comfortable elastic waistband. Made with lightweight and flowy fabric, this skirt can be dressed up with a blouse or dressed down with a t-shirt.",
+      "category": "Skirts",
+      "imageURL": "/images/floral_print_skirt.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Crew Neck T-Shirt",
+      "price": 18000,
+      "color": ["White", "Black", "Gray"],
+      "size": ["S", "M", "L"],
+      "description": "The Crew Neck T-Shirt is a wardrobe staple that offers comfort and style. It features a classic crew neck design and a relaxed fit. Made with soft and breathable fabric, this t-shirt is perfect for everyday wear. Pair it with jeans or shorts for a casual and effortless look.",
+      "category": "Tops",
+      "imageURL": "/images/crew_neck_tshirt.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Midi Wrap Dress",
+      "price": 54000,
+      "color": ["Black", "Navy"],
+      "size": ["S", "M", "L"],
+      "description": "The Midi Wrap Dress is a chic and versatile piece that flatters your figure. It features a wrap-style design with a tie waist and a midi length. Made with lightweight and flowy fabric, this dress is perfect for both casual and dressy occasions.",
+      "category": "Dresses",
+      "imageURL": "/images/midi_wrap_dress.jpg"
+    },
+    {
+      "id": 17,
+      "title": "V-Neck Sweater",
+      "price": 32000,
+      "color": ["Beige", "Burgundy", "Olive"],
+      "size": ["S", "M", "L"],
+      "description": "The V-Neck Sweater is a versatile and classic piece that can be dressed up or down. It features a v-neckline and a relaxed fit. Made with soft and cozy fabric, this sweater is perfect for layering or wearing on its own.",
+      "category": "Tops",
+      "imageURL": "/images/vneck_sweater.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Pleated Midi Skirt",
+      "price": 46000,
+      "color": ["Black", "Navy", "Burgundy"],
+      "size": ["S", "M", "L"],
+      "description": "The Pleated Midi Skirt is a feminine and elegant choice for various occasions. It features a pleated design and a midi length. Made with lightweight and flowy fabric, this skirt can be paired with a blouse or a sweater for a sophisticated look.",
+      "category": "Skirts",
+      "imageURL": "/images/pleated_midi_skirt.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Ruffled Sleeve Blouse",
+      "price": 35000,
+      "color": ["White", "Pink", "Blue"],
+      "size": ["S", "M", "L"],
+      "description": "The Ruffled Sleeve Blouse is a feminine and trendy piece that adds a touch of elegance to your outfit. It features ruffled sleeves and a relaxed fit. Made with lightweight and breathable fabric, this blouse is perfect for both casual and dressy occasions.",
+      "category": "Tops",
+      "imageURL": "/images/ruffled_sleeve_blouse.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Wide-Leg Pants",
+      "price": 42000,
+      "color": ["Black", "Navy", "Gray"],
+      "size": ["S", "M", "L"],
+      "description": "The Wide-Leg Pants are a stylish and comfortable choice for a chic and relaxed look. They feature a wide-leg design and a high-waisted fit. Made with soft and flowy fabric, these pants can be paired with a blouse or a tucked-in t-shirt for a fashionable outfit.",
+      "category": "Pants",
+      "imageURL": "/images/wide_leg_pants.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Off-Shoulder Maxi Dress",
+      "price": 67000,
+      "color": ["Red", "Black", "Navy"],
+      "size": ["S", "M", "L"],
+      "description": "The Off-Shoulder Maxi Dress is a stunning and romantic choice for special occasions. It features an off-shoulder neckline and a flowy maxi length. Made with lightweight and airy fabric, this dress will make you feel elegant and confident.",
+      "category": "Dresses",
+      "imageURL": "/images/off_shoulder_maxi_dress.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "Off-Shoulder Maxi Dress",
+      "price": 67000,
+      "color": "Red",
+      "size": "S",
+      "category": "Dresses",
+      "imageURL": "/images/off_shoulder_maxi_dress.jpg",
+      "quantity": 1
+    }
+  ]
+}
